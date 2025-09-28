@@ -1,0 +1,6 @@
+{ 
+    "message" : "Hello %1, What a beautiful day. Server current date and time is",
+    "404_message": "404 Not Found",
+    "500_message": "500 Internal Server Error",
+    "server_message": "Server is up and running. listening to port "
+}
