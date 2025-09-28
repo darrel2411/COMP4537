@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: comp4537-lab3
+    env: node
+    rootDir: labs/3
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeploy: true
